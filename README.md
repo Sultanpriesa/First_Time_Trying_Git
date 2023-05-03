@@ -14,4 +14,4 @@ first repo, trying stuff and breaking stuff
 
  GitHub is a web-based platform that allows users to manage and collaborate on software projects using Git version control. Git is a distributed version control system that allows multiple users to work on the same project simultaneously, making it a valuable tool for collaborative software development.
 
- 
+ **This is a bold text**
