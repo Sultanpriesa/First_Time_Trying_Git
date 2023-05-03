@@ -16,4 +16,4 @@ first repo, trying stuff and breaking stuff
 
  **This is a bold text**
 
- ~~This text is called a a strikethrough~~
+ This text is called a ~~strikethrough~~
