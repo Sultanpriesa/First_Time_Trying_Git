@@ -18,6 +18,5 @@ first repo, trying stuff and breaking stuff
 
  This text is called a ~~strikethrough~~
 
- [Youtube]: (https://www.youtube.com)
+ [Youtube:](https://www.youtube.com)
 
- 
